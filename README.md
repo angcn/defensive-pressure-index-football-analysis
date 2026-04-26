@@ -1,7 +1,9 @@
 # defensive-pressure-index-football-analysis
 R code for the construction and preliminary evaluation of a Defensive Pressure Index (DPI) using football tracking data.
+
 Defensive Pressure Index (DPI) Analysis in Football
 This repository contains the R code used in the study on the development and initial validation of a Defensive Pressure Index (DPI) using tracking data.
+
 Overview
 This project develops a composite Defensive Pressure Index (DPI) based on positional tracking data from the Chinese Super League (CSL). The DPI quantifies defensive pressure as a multidimensional, sequence-level construct by integrating six spatial–tactical variables: defensive possession gain zone (DPGZ), distance to the ball carrier (DPPBND), number of defenders around the ball (DNUM), final pass length (PL), number of passes before sequence termination (PN), and defensive line depth (DLAODGL).
 
